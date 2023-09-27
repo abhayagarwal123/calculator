@@ -72,8 +72,8 @@ var value=['1','2','3','sin','+','4','5','6','cos','-','7','8','9',
                      color: Colors.black,
 child: Center(child: Column(
   children: [
-        Text(s,style: TextStyle(fontSize: 40,color: Colors.white),),
-    Text('result: $res',style: TextStyle(fontSize: 40,color: Colors.white,),),
+        Text(s,style: TextStyle(fontSize: 30,color: Colors.white),),
+    Text('result: $res',style: TextStyle(fontSize: 30,color: Colors.white,),),
   ],
 )),
              ),
